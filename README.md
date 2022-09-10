@@ -1,5 +1,5 @@
-# unity-housekeeping
+# TinyByte1
 
-A starter kit for a blank Unity project.
+Demonstrate skills taught from ATLS/CSCI 5616 in-class examples. 
 
 Unity version 2021.3.9f1
